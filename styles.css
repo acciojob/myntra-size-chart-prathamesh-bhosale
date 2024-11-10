@@ -1,9 +1,29 @@
 
 /* Your CSS Code here. */
 table {
-	width : 50%
+	width: 50%;
+	border: solid black ;
+	
 }
 
 tbody{
-		text-align : right
+		text-align: right;
+		border: solid black;
+}
+
+.part{ 
+	text-align: left;
+	
+}
+td{
+	border: solid black;
+}
+.r1{
+	background-color: #da9694;
+}
+.r2{
+	background-color: #f2dcdb;
+}
+.r3{
+	background-color: #d9d9d9;
 }
