@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+table {
+	width : 50%
+}
+
+tbody{
+		text-align : right
+}
